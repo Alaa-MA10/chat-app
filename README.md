@@ -1,5 +1,11 @@
 # Chat App
 
+---
+
+![Chat App Login screenshot](./images/login-screenshot.png)
+
+![Chat App Chat screenshot](./images/chat-screenshot.png)
+
 A real-time Chat Application with Social authentication using Firebase and dedicated chat APIs/sockets.
 
 ### Built With
